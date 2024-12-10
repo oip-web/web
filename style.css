@@ -87,7 +87,7 @@ color: #ffc301;
 }
 
 .header-content h1{
-    font-size: 50px;
+    font-size: 35px;
     line-height: 80px;
     color: #F9FAFC;
     text-transform: uppercase;
@@ -197,7 +197,7 @@ color: #ffc301;
 }
 
 .services-content h2{
-    font-size: 40px;
+    font-size: 30px;
     line-height: 70px;
     color: #F9FAFC;
     text-transform: uppercase;
@@ -265,7 +265,7 @@ color: #ffc301;
 }
 
 h2{
-    font-size: 45px;
+    font-size: 30px;
     line-height: 70px;
     color: #323337;
     text-transform: uppercase;

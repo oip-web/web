@@ -367,6 +367,12 @@ p{
         padding: 100px 30px;
     }
 
+    .header-content h1 {
+        font-size: 28px; 
+        line-height: 1.2; 
+        margin-bottom: 10px; 
+    }
+
     .header-content p{
         padding: 0;
     }
@@ -377,6 +383,9 @@ p{
 
     .coffee-content h2{
         padding: 0;
+        font-size: 28px; 
+        line-height: 1.2; 
+        margin-bottom: 10px; 
     }
 
     .txt-p{
@@ -420,12 +429,24 @@ p{
         text-align: center;
     }
 
+    .general-1 h2{
+        font-size: 28px; 
+        line-height: 1.2; 
+        margin-bottom: 10px; 
+    }
+
     .general-2, .general-3{
         display: none;
     }
 
     .blog{
         padding: 30px;
+    }
+
+    h2{
+        font-size: 28px; 
+        line-height: 1.2; 
+        margin-bottom: 10px;
     }
 
     .blog-content{

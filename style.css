@@ -405,6 +405,13 @@ p{
         padding: 30px;
     }
 
+    .services-content h2{
+        padding: 0;
+        font-size: 28px; 
+        line-height: 1.2; 
+        margin-bottom: 10px; 
+    }
+    
     .services-content p{
         padding: 0;
     }

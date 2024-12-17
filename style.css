@@ -138,11 +138,13 @@ color: #ffc301;
 }
 .coffee-content h2{
     font-size: 30px;
-    line-height: 70px;
+    line-height: 1.2;
     color: #323337;
     text-transform: uppercase;
     padding: 0 250px;
     margin-bottom: 15px;
+
+
 }
 
 .txt-p{
@@ -237,7 +239,7 @@ color: #ffc301;
 
 .general-1{
     width: 50%;
-    padding: 100px 250px 100px 100px;
+    padding: 100px;
     background-color: #e1e2e6;
 }
 
@@ -266,7 +268,7 @@ color: #ffc301;
 
 h2{
     font-size: 30px;
-    line-height: 70px;
+    line-height: 1.2;
     color: #323337;
     text-transform: uppercase;
     margin-bottom: 20px;

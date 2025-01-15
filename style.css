@@ -259,6 +259,22 @@ color: #ffc301;
     width: 50%;
 }
 
+.general-4{
+    background-image:url(img/post4.jpeg) ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+
+.general-5{
+    background-image:url(img/post5.jpeg) ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+
 .general-2, .general-3 {
     background-position: center center;
     background-repeat: no-repeat;
